@@ -1,0 +1,48 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+
+body{
+    background: red ;
+}
+
+h1{
+    background-size: 50px;
+    color: blue;
+    text-align-last: center;
+    font-family:'Times New Roman', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 15px;
+    background-color: rgb(135, 182, 74);
+}
+
+div#CursoW{
+    background-color: white;
+    text-align: center;
+    margin-right: 40px;
+    font-family: cursive;
+    max-width: 300px;
+    margin-top: 50px;
+
+}
+
+div#CursoP{
+    margin-right: 40px;
+    text-align:center;
+    background-color: white;
+    font-family: cursive;
+    max-width: 300px;
+    margin-top: 50px;
+    
+}
+
+ol{
+    background-color:rgb(35, 23, 88);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(8, 150, 194);
+}
+
+li{
+    color: white;
+}
+
